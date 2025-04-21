@@ -5,6 +5,8 @@
 
 This app was developed as part of the TrackForce mobile coding challenge. It displays the current weather and a 7-day forecast for the user’s location.
 
+![UI Reference](Reference%20Image%20-%20Project%20.png)
+
 ⸻
 
 ✅ Architecture
